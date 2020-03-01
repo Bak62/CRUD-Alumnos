@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Alumnos", "Alumnos\Alumnos.sqlproj", "{E9CFDBF4-DE4E-44B9-88A2-24C3EA135F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlumnosWeb", "AlumnosWeb\AlumnosWeb.csproj", "{D28CCF70-AD39-4011-84E0-D0E8B24B78A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9CFDBF4-DE4E-44B9-88A2-24C3EA135F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CFDBF4-DE4E-44B9-88A2-24C3EA135F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CFDBF4-DE4E-44B9-88A2-24C3EA135F9B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E9CFDBF4-DE4E-44B9-88A2-24C3EA135F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CFDBF4-DE4E-44B9-88A2-24C3EA135F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CFDBF4-DE4E-44B9-88A2-24C3EA135F9B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D28CCF70-AD39-4011-84E0-D0E8B24B78A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28CCF70-AD39-4011-84E0-D0E8B24B78A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28CCF70-AD39-4011-84E0-D0E8B24B78A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28CCF70-AD39-4011-84E0-D0E8B24B78A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948775AF-0891-4262-B873-E132A736F6F0}
+	EndGlobalSection
+EndGlobal
